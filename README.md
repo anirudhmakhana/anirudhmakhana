@@ -12,10 +12,9 @@
 </p>
 --!>
 ## 📖 About me
-
-* 🎨 I'm a IoT, Smart Home, Electric Cars & Wearables Enthusiast
-* 📱 I make apps for Android 
-* 🎓 I'm a Software Engineering Student (graduating 2023)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Self-taught+Android+Dev;Keen+to+learn+new+things;Exploring+AI+and+Internet+Of+Things"></a>
+</p>
 <!--
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
 * 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
@@ -27,14 +26,6 @@
     <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
 --!>
-
-## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/anirudhmakhana/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhmakhana#version3"/>
-  </a>
-</p>
 
 <!--
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/anirudhmakhana?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
@@ -139,4 +130,10 @@
         
     </tbody>
 </table>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=anirudhmakhana&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhmakhana&theme=react&layout=compact" />
+</p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="anirudhmakhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anirudhmakhana&bg_color=000000&color=fcfcfc&line=fd08ec&point=03fc7b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
 
