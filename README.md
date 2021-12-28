@@ -13,7 +13,7 @@
 --!>
 ## 📖 About me
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Self-taught+Android+Dev;Keen+to+learn+new+things;Exploring+AI+and+Internet+Of+Things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%2336BCF7&center=true&vCenter=true&lines=Self-taught+Android+Engineer;Exploring+Machine+Learning;Learning+IoT+and+AI+applications;Researching+about+blockchain+applications)"></a>
 </p>
 <!--
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
@@ -134,6 +134,4 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=anirudhmakhana&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhmakhana&theme=react&layout=compact" />
 </p>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="anirudhmakhana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anirudhmakhana&bg_color=000000&color=fcfcfc&line=fd08ec&point=03fc7b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
 
