@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/YhKgXl3.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/P72bzuq.png" height="175px"/></a>
+
 
 
 <h3 align="center">Hey there, I'm Anirudh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
@@ -89,21 +90,36 @@
             
             <td><a href="#"><img alt="Java" title="Java" height="28px"
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
+
+            <td><a href="#"><img alt="Javascript" title="Javscript" height="28px"
+                        src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a></td>
+
             <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
+
+            <td><a href="#"><img alt="Django" title="Django" height="28px"
+                        src="https://img.icons8.com/ios-filled/50/000000/django.png"/></a>
+
             </td>
             <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
                         src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
 
             <td><a href="#"><img alt="Firebase" title="Firebase" height="28px"
-                        src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" /></a></td>
+                        src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/></a></td>
 
 
             <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-            </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            
+            <td><a href="#"><img alt="React" title="React" height="28px"
+                         src="https://img.icons8.com/plasticine/100/000000/react.png"/></a>
+
+            <td><a href="#"><img alt="Ethereum Blockchain" title="ETH" height="28px"
+                         src="https://img.icons8.com/color/48/000000/ethereum.png"/></a>
+
+
+            <td><a href="#"><img alt="Solidity" title="Solidity" height="28px"
+                         src="https://img.icons8.com/ios/50/000000/contract.png"/></a>
             </td>
             <td><a href="#"><img alt="PHP" title="PHP" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
