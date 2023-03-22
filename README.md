@@ -45,13 +45,15 @@ I-am-anirudhmakhana@github
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Gin" src="https://img.shields.io/badge/Built_with-Gin-00ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://github.com/gin-gonic/gin"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=whit"></a>
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-    <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"></a>
-
+    <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge"></a>
+    <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/Hardhat-%23323330.svg?style=for-the-badge&logo=ethereum&logoColor=white"></a>
+    <a href="#"><img alt="ElasticSearch" src="https://img.shields.io/badge/Brownie-%234e5080.svg?style=for-the-badge&logo=ethereum&logoColor=white"></a>
 </p>
 
 ### 🗄️Servers, Databases and Cloud Hosting
@@ -69,6 +71,9 @@ I-am-anirudhmakhana@github
     <a href="#"><img alt="Heroku" src ="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src ="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
     <a href="#"><img alt="Jenkins" src ="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a>
+    <a href="#"><img alt="RabbitMQ" src ="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"></a>
+    <a href="#"><img alt="Home Asssitant" src ="https://img.shields.io/badge/Home_Assistant-%23F7DF1E.svg?style=for-the-badge&logo=homeassistant&logoColor=white"></a>
+   
 </p>
 
 ### 💻 Software and Tools
